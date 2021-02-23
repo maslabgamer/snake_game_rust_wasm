@@ -1,6 +1,9 @@
 /target
 **/*.rs.bk
+.idea/*
 Cargo.lock
 bin/
 pkg/
 wasm-pack.log
+.gradle
+node_modules/
